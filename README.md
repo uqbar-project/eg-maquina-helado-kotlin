@@ -1,6 +1,6 @@
 # Resolución ejercicio de parcial - Máquina de Helado
-[![build](https://github.com/uqbar-project/eg-maquina-helado-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/eg-maquina-helado-kotlin/actions/workflows/build.yml) [![coverage](https://codecov.io/gh/uqbar-project/eg-maquina-helado-kotlin/branch/master/graph/badge.svg)](https://codecov.io/gh/uqbar-project/eg-maquina-helado-kotlin/branch/master/graph/badge.svg)
 
+[![build](https://github.com/uqbar-project/eg-maquina-helado-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/eg-maquina-helado-kotlin/actions/workflows/build.yml) [![coverage](https://codecov.io/gh/uqbar-project/eg-maquina-helado-kotlin/branch/master/graph/badge.svg)](https://codecov.io/gh/uqbar-project/eg-maquina-helado-kotlin/branch/master/graph/badge.svg)
 
 <img src="images/helado.png" height="288px" width="165px"/>
 

@@ -8,7 +8,6 @@ class Preparacion(var temperaturaMinima: Int, var temperaturaMaxima: Int) {
 
     val pasos: MutableList<Paso> = mutableListOf()
 
-
     fun temperaturaAdecuada(temperatura: Int) = temperatura.between(temperaturaMinima, temperaturaMaxima)
 
     fun preparar(maquina: MaquinaHelado) {

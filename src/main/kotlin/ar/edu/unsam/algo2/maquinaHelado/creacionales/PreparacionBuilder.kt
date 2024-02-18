@@ -34,7 +34,7 @@ class PreparacionBuilder {
 
     fun build(): Preparacion {
         if (preparacion.sinPasos()) {
-            throw  BusinessException("No ha definido pasos para la preparacion")
+            throw BusinessException("No ha definido pasos para la preparacion")
         }
         return preparacion
     }
