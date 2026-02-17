@@ -1,7 +1,5 @@
 package ar.edu.unsam.algo2.maquinaHelado
 
-import io.kotest.assertions.eq.escapeLineBreaks
-
 class StubIceMachine(var temperatura: Int = 0) : IceMachine2000 {
 
     var estado = MaquinaHelado.MAQUINA_LIBRE
